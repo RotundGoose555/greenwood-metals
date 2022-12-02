@@ -1,14 +1,15 @@
 {
   "files": {
-    "main.css": "/greenwood-metals/static/css/main.073c9b0a.css",
-    "main.js": "/greenwood-metals/static/js/main.6683ac29.js",
-    "static/media/logo.svg": "/greenwood-metals/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/greenwood-metals/static/css/main.fe652171.css",
+    "main.js": "/greenwood-metals/static/js/main.ef42f2ce.js",
+    "static/media/PlayfairDisplay-VariableFont_wght.ttf": "/greenwood-metals/static/media/PlayfairDisplay-VariableFont_wght.3f7c141215e6d22d0f1e.ttf",
+    "static/media/Sora-VariableFont_wght.ttf": "/greenwood-metals/static/media/Sora-VariableFont_wght.c846c9a2c08153d3605a.ttf",
     "index.html": "/greenwood-metals/index.html",
-    "main.073c9b0a.css.map": "/greenwood-metals/static/css/main.073c9b0a.css.map",
-    "main.6683ac29.js.map": "/greenwood-metals/static/js/main.6683ac29.js.map"
+    "main.fe652171.css.map": "/greenwood-metals/static/css/main.fe652171.css.map",
+    "main.ef42f2ce.js.map": "/greenwood-metals/static/js/main.ef42f2ce.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.6683ac29.js"
+    "static/css/main.fe652171.css",
+    "static/js/main.ef42f2ce.js"
   ]
 }
