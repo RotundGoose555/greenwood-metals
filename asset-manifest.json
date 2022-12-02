@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/greenwood-metals/static/css/main.fe652171.css",
+    "main.css": "/greenwood-metals/static/css/main.dfef6ced.css",
     "main.js": "/greenwood-metals/static/js/main.ef42f2ce.js",
     "static/media/PlayfairDisplay-VariableFont_wght.ttf": "/greenwood-metals/static/media/PlayfairDisplay-VariableFont_wght.3f7c141215e6d22d0f1e.ttf",
     "static/media/Sora-VariableFont_wght.ttf": "/greenwood-metals/static/media/Sora-VariableFont_wght.c846c9a2c08153d3605a.ttf",
     "index.html": "/greenwood-metals/index.html",
-    "main.fe652171.css.map": "/greenwood-metals/static/css/main.fe652171.css.map",
+    "main.dfef6ced.css.map": "/greenwood-metals/static/css/main.dfef6ced.css.map",
     "main.ef42f2ce.js.map": "/greenwood-metals/static/js/main.ef42f2ce.js.map"
   },
   "entrypoints": [
-    "static/css/main.fe652171.css",
+    "static/css/main.dfef6ced.css",
     "static/js/main.ef42f2ce.js"
   ]
 }
