@@ -1,0 +1,59 @@
+html * {
+  font-size: 16px;
+  color: black;
+  font-family: Sora;
+}
+
+@font-face {
+  font-family: Sora;
+  src: url('../assets/Sora-VariableFont_wght.ttf');
+}
+
+@font-face {
+  font-family: Playfair;
+  src: url('../assets/PlayfairDisplay-VariableFont_wght.ttf');
+}
+
+
+.header{
+  padding-left: .5rem;
+  display:flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  height: 5rem;
+
+  box-shadow: 5px 5px 30px #00000011;
+}
+
+.header-title{
+  font-family: Playfair;
+  text-align: center;
+  font-weight: normal;
+  font-size: 3em;
+}
+
+.header-img{
+  display: flexbox;
+  height: 90%;
+  width: auto;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+
+
